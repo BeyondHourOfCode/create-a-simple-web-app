@@ -17,7 +17,7 @@ Now take a moment to think about a version of this app that you can create from 
 
 What will you create from this? A silly name generator? A search in Google Books or Amazon.com? How will you make these changes? 
 
-Changing the basic header and text in the html file should be fairly simple- replace the <title> and <h1> elements, etc. Changing the CSS will be a bit more tricky, but not terribly so. Start out by changing the background color. Next, try some other things, such as:
+Changing the basic header and text in the html file should be fairly simple- replace the ```<title>``` and ```<h1>``` elements, etc. Changing the CSS will be a bit more tricky, but not terribly so. Start out by changing the background color. Next, try some other things, such as:
 
 * changing the font
 * make the gameboy larger (and the nested divs inside it)
