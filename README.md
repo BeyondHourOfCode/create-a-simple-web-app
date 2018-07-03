@@ -1,7 +1,7 @@
 # create-a-simple-web-app
 Set up a simple web app to start a random search for your users
 
-##Random Research Topic Generator
+## Random Research Topic Generator
 
 Use the template in this repository to set up the Random Research Topic Generator. It consists of three small files- html, css and js. Go ahead and look at the code:
 
@@ -9,7 +9,7 @@ Use the template in this repository to set up the Random Research Topic Generato
 * the css is a bit more complicated- getting the thing to look like a gameboy took some tricky manouvering
 * the js is the key to this app. Look at the code closely and read all of the comments. 
 
-##Build Your Own Project
+## Build Your Own Project
 
 Now take a moment to think about a version of this app that you can create from this template. There are two main pieces to this: 
 * a random topic generator, which randomly grabs two terms from a list
